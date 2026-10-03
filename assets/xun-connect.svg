@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 130" width="720" height="130" role="img" aria-labelledby="t d"><title id="t">Connection established</title><desc id="d">Connection established. Channels: GitHub, Instagram, TikTok, Discord.</desc><defs></defs>
+<rect width="720" height="130" fill="#0A0D12"/>
+<rect x=".5" y=".5" width="719" height="129" fill="none" stroke="#252E3B"/>
+<path d="M10 24V10H24 M696 10H710V24 M10 106V120H24 M696 120H710V106" fill="none" stroke="#8E8947" stroke-width="1.2"/>
+<circle cx="56" cy="52" r="5" fill="#E3D96F"/><circle cx="56" cy="52" r="5" fill="none" stroke="#E3D96F" stroke-width="1.2"><animate attributeName="r" values="5;15" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="76" y="60" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="24" font-weight="700" letter-spacing="3" fill="#E8EBF0">CONNECTION ESTABLISHED</text>
+<line x1="48" y1="84" x2="672" y2="84" stroke="#252E3B"/>
+<rect x="48" y="83" width="60" height="2" fill="#E3D96F"><animate attributeName="x" values="48;612;48" dur="8s" repeatCount="indefinite"/></rect>
+<text x="48" y="112" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#A3ADBD">GitHub · Instagram · TikTok · Discord</text></svg>

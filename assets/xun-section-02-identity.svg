@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 56" width="720" height="56" role="img" aria-labelledby="t d"><title id="t">Section 02: Identity</title><desc id="d">Section divider: 02 // IDENTITY</desc><defs></defs>
+<rect x="0" y="14" width="3" height="26" fill="#E3D96F"/>
+<text x="14" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" font-weight="600" fill="#E8EBF0"><tspan fill="#E3D96F">02</tspan><tspan fill="#7A8597"> // </tspan>IDENTITY</text>
+<line x1="202" y1="28" x2="716" y2="28" stroke="#252E3B"/>
+<line x1="716" y1="20" x2="716" y2="36" stroke="#8E8947"/>
+<circle cy="28" r="2.5" fill="#E3D96F" opacity="0"><animate attributeName="cx" from="202" to="716" dur="6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="6s" repeatCount="indefinite"/></circle></svg>

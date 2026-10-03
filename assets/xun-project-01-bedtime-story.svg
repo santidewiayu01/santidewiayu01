@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 230" width="720" height="230" role="img" aria-labelledby="t d"><title id="t">Project 01: BEDTIME STORY</title><desc id="d">Project card 01: BEDTIME STORY. A web project built with React and Vite. JavaScript · React · Vite. SOURCE github.com/santidewiayu01/bedtimeStory.</desc><defs></defs>
+<rect width="720" height="230" fill="#0A0D12"/>
+<rect x=".5" y=".5" width="719" height="229" fill="#10151D" stroke="#252E3B"/>
+<path d="M10 24V10H24 M696 10H710V24 M10 206V220H24 M696 220H710V206" fill="none" stroke="#8E8947" stroke-width="1.2"/>
+<rect x="1" y="1" width="90" height="2" fill="#E3D96F" opacity=".9">
+<animate attributeName="x" values="1;629;1" dur="9s" repeatCount="indefinite"/></rect>
+<text x="40" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="3" fill="#E3D96F">01</text>
+<text x="40" y="100" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="38" font-weight="700" fill="#E8EBF0">BEDTIME STORY</text>
+<text x="40" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#A3ADBD">A web project built with React and Vite.</text>
+<text x="40" y="162" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#E3D96F">JavaScript · React · Vite</text>
+<text x="40" y="196" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="2" fill="#7A8597">SOURCE</text><text x="130" y="196" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#E8EBF0">github.com/santidewiayu01/bedtimeStory</text>
+</svg>
