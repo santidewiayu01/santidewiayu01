@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 56" width="720" height="56" role="img" aria-labelledby="t d"><title id="t">Section 11: Connect</title><desc id="d">Section divider: 11 // CONNECT</desc><defs></defs>
-<rect x="0" y="14" width="3" height="26" fill="#E3D96F"/>
-<text x="14" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" font-weight="600" fill="#E8EBF0"><tspan fill="#E3D96F">11</tspan><tspan fill="#7A8597"> // </tspan>CONNECT</text>
-<line x1="189" y1="28" x2="716" y2="28" stroke="#252E3B"/>
-<line x1="716" y1="20" x2="716" y2="36" stroke="#8E8947"/>
-<circle cy="28" r="2.5" fill="#E3D96F" opacity="0"><animate attributeName="cx" from="189" to="716" dur="6s" repeatCount="indefinite"/>
+<rect x="0" y="14" width="3" height="26" fill="#A855F7"/>
+<text x="14" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" font-weight="600" fill="#F5F3F7"><tspan fill="#C084FC">11</tspan><tspan fill="#918A9F"> // </tspan>CONNECT</text>
+<line x1="189" y1="28" x2="716" y2="28" stroke="#241B35"/>
+<line x1="716" y1="20" x2="716" y2="36" stroke="#7C3AED"/>
+<circle cy="28" r="2.5" fill="#A855F7" opacity="0"><animate attributeName="cx" from="189" to="716" dur="6s" repeatCount="indefinite"/>
 <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="6s" repeatCount="indefinite"/></circle></svg>
