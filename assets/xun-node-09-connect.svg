@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 76" width="720" height="76" role="img" aria-labelledby="t d"><title id="t">09 // Connect</title><desc id="d">Section 09 of 09: Connect</desc><defs></defs><rect width="720" height="76" fill="#07060B"/>
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="315" y1="0" x2="640" y2="0"><stop offset="0" stop-color="#A855F7" stop-opacity=".7"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></linearGradient></defs>
+<line x1="16" y1="0" x2="16" y2="76" stroke="#A855F7" stroke-opacity=".55"/>
+<circle cx="16" cy="38" r="10" fill="none" stroke="#A855F7" stroke-opacity=".3"/>
+<circle cx="16" cy="38" r="5" fill="#A855F7"/>
+<circle cx="16" cy="0" r="2.2" fill="#C084FC" opacity="0"><animate attributeName="cy" values="0;76" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="5s" repeatCount="indefinite"/></circle>
+<line x1="26" y1="38" x2="38" y2="38" stroke="#A855F7" stroke-opacity=".6"/>
+<text x="46" y="46" font-family="'Helvetica Neue',Helvetica,Arial,system-ui,'Segoe UI',sans-serif" font-size="24" font-weight="500" letter-spacing="3" fill="#F5F3F7"><tspan fill="#C084FC">09</tspan><tspan fill="#918A9F"> // </tspan>CONNECT</text>
+<line x1="315" y1="38" x2="640" y2="38" stroke="url(#g)"/>
+<text x="704" y="44" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" letter-spacing="2" fill="#918A9F">09 / 09</text></svg>
